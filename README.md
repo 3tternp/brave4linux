@@ -8,7 +8,7 @@ _git clone https://github.com/3tternp/brave4linux_
 
 ## change directory to brave4linux 
 
-_cd /brave4linux _
+_cd /brave4linux_
 
 ## give it execute permissions using 
 
