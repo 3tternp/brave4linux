@@ -2,18 +2,18 @@
 
 To use this script,
 
-Download script using git command 
+# Download script using git command 
 
-git clone https://github.com/3tternp/brave4linux
+_git clone https://github.com/3tternp/brave4linux_
 
-change directory to brave4linux 
+# change directory to brave4linux 
 
-cd /brave4linux 
+_cd /brave4linux _
 
-give it execute permissions using 
+# give it execute permissions using 
 
-chmod +x install_brave_browser.sh
+_chmod +x install_brave_browser.sh_
 
-Execute the script as 
+# Execute the script as 
 
-./install_brave_browser.sh
+_./install_brave_browser.sh_
